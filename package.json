@@ -1,6 +1,6 @@
 {
 	"name": "@wpcampus/wpcampus-wc-subscribe",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "The subscribe web component used by the WPCampus organization.",
 	"main": "dist/main.js",
 	"repository": {
